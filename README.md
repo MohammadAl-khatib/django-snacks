@@ -1,0 +1,1 @@
+PR: https://github.com/MohammadAl-khatib/django-snacks/pull/1
